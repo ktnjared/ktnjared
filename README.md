@@ -1,4 +1,6 @@
-## Hi there 👋
+## oh hai `o/`
+
+[![My Skills](https://skillicons.dev/icons?i=apple,bash,bsd,debian,docker,linux,html,css,md,mysql,py,redhat,regex,selenium,vscode)](https://skillicons.dev)
 
 <!--
 **ktnjared/ktnjared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
